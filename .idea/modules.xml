@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.iml" filepath="$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tomGregorySpringBootAppWJenkins.test.iml" />
     </modules>
   </component>
 </project>
