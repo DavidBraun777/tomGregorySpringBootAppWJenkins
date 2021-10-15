@@ -49,5 +49,5 @@ dockerRun {
     image imageName
     ports '8080:8080'
     clean true
-    arguments '-v', "$extraPrefix/var/run/docker.sock:/var/run/docker.sock", '--group-add', "jenkinsci/blueocean"
+    arguments '-v', "$extraPrefix/var/run/docker.sock:/var/run/docker.sock", '--group-add', "jenkins"
 }
